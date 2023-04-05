@@ -1,0 +1,21 @@
+Fiat Marea Preto 2000 Gasolina
+Volkswagem Gol Azul 2010 Gasolina
+Chevrolet Celta Prata 2008 Flex
+Chevrolet Corsa Vermelho 1999 Alcool
+Ford Escort Vermelho 1993 Alcool
+Ford Fiesta Branco 2002 Gasolina
+Fiat Stilo Verde 2004 Gasolina
+Fiat Palio Chumbo 2006 Flex
+Honda Civic Azul 2008 Gasolina
+Honda City Prata 2012 Flex
+Hyundai HB20 Cinza 2020 Flex
+Renault Logan Branco 2019 Flex
+Toyota Corolla Preto 2014 Flex
+Volkswagen Gol Verde 2014 Flex
+Volkswagem Polo Branco 2019 Flex
+Volkswagem Kombi Branco 2013 Gasolina
+Volkswagem Saveiro Preta 2002 Alcool
+Hyundai Ix35 Prata 2014 Gasolina
+Fiat Toro Vermelha 2020 Flex
+
+
